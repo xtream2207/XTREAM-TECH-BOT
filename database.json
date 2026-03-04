@@ -1,0 +1,18 @@
+# XTREAM TECH BOT Configuration
+# Get SESSION_ID from: https://www.xtream.tech/
+
+# Authentication
+SESSION_ID=XTREAM-TECH-BOT:~your_session_id_here
+OWNER_ID=256772433078
+
+# Environment
+NODE_ENV=production
+
+# Bot Configuration
+BOT_PREFIX=!
+BOT_NAME=XTREAM TECH BOT
+LOG_LEVEL=info
+
+# Server Configuration
+API_PORT=3000
+API_HOST=localhost

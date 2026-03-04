@@ -1,0 +1,13 @@
+{
+  "name": "XTREAM TECH BOT",
+  "description": "Advanced WhatsApp Bot",
+  "repository": "https://github.com/xtream2207/XTREAM-TECH-BOT",
+  "logo": "",
+  "keywords": ["whatsapp", "bot", "nodejs"],
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your bot session id here",
+      "required": true
+    }
+  }
+}
