@@ -1,6 +1,6 @@
 {
   "name": "xtream-tech-bot",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "Advanced WhatsApp automation bot",
   "main": "index.js",
   "engines": {
