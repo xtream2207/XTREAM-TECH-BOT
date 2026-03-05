@@ -727,4 +727,5 @@ Made by xtream Abdul
     this.database.contact_requests.push({
       from: sender,
       time: new Date().toLocaleString(),
-      timest
+      timestamp: Date.now()
+});
